@@ -15,6 +15,6 @@ Practise:
 - Re-create the examples on @artikblue posts
 - When re-creating these examples (https://artik.blue/reversing-radare-3) about loops/switch-cases try to start r2 on write mode and use "wa" to patch the loop, so you can "enlarge" those loops.
 - When doing this one: https://artik.blue/reversing-radare-4 try to search about r2frida and automate your RE (re-create the commands shown on the post or just be creative) using python and r2frida (json is your friend).
-- You should be able to solve IOLI crackme-I without any problem: https://github.com/Maijin/radare2-workshop-2015/tree/master/IOLI-crackme
+- solve IOLI crackme-I: https://github.com/Maijin/radare2-workshop-2015/tree/master/IOLI-crackme
 
 
