@@ -3,7 +3,7 @@ int main(){
   signed int number;
   printf("enter an integer: ");
   scanf("%d",&number);
-  if(number > 0){
+  if(number > 10){
     printf("You entered %d. \n",number);
   }
   else{
