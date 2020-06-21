@@ -1,0 +1,11 @@
+dr -> gives the values that are holded by general puporse register
+ex dr 1, dr rax,..
+
+dr 1 -> gives the values holded by flags register like ZF,SF,..  
+
+db -> set breakpoint
+ds -> step 
+dc -> continue
+
+rax2 -> converstion tool ex.hex -> float, float -> hex, hex -> bas10 etc.. 
+
