@@ -25,13 +25,13 @@ x86 - 32 bit architecture
 R denotes 64 bit registers
 
 #### Lower and Higher bits 
-ex: 0x19
-POS:  8 7 6 5  4 3 2 1
-SBCD: 8 4 2 1  8 4 2 1
-bits: 0 0 0 1  1 0 0 1
+ex: 0x19  
+POS:  8 7 6 5  4 3 2 1  
+SBCD: 8 4 2 1  8 4 2 1  
+bits: 0 0 0 1  1 0 0 1  
 
-Higher bits - 0001
-Lower bits - 1001
+Higher bits - 0001  
+Lower bits - 1001  
 
 E denotes 32 bit registers(NA for R8-R15)
 E**A**X,E**B**X.. - Access Lower 32 bits
